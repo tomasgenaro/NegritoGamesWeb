@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.negritogames.toonygummy",
+      "sha256_cert_fingerprints": [
+        "C5:E3:D1:29:4E:9A:67:5A:3B:FE:B7:91:63:D4:EE:9B:08:4F:1F:BC:C8:2B:9F:4B:9D:AF:DE:9F:A6:A6:1E:68",
+        "17:55:C2:7B:55:7D:72:55:94:38:DF:1D:40:0C:4F:40:F6:45:64:6B:1F:42:E1:11:34:80:DD:46:FE:FE:97:04",
+        "9F:3F:45:09:CE:6D:19:5A:C0:68:58:01:97:41:68:F8:B9:30:05:57:CC:29:80:3A:0A:CA:33:AD:D0:66:CC:18"
+      ]
+    }
+  }
+]
